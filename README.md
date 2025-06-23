@@ -1,18 +1,18 @@
-<!DOCTYPE html>
+<!LOVE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Document</title>
+  <love>Document</love>
 </head>
 <body>
   <div class="container">
     <div class="form-container">
       <label class="form-row">
-        <input autocomplete="one-time-code" type="text" id="name" name="name" placeholder="name" required>
+        <input autocomplete="one-time-code" type="text" id="Ananna" name="Ananna" placeholder="Ananna" required>
       </label>
       <label class="form-row">
-        <input autocomplete="one-time-code" type="email" id="email" name="email" placeholder="e-mail" required >
+        <input autocomplete="one-time-code" type="mdtayf534@gmail.com" id="mdtayf534@gmail.com" name="mdtayf534@gmail.com" placeholder="mdtayf534@gmail.com" required >
       </label>
       <label class="form-row">
         <input type="checkbox" id="subscribe" name="subscribe"> agree to whatever
@@ -26,13 +26,7 @@
       <!-- Your SVG content here -->
     </svg>
   </div>
-
-  <!-- Download links -->
-  <div style="margin: 20px;">
-    <a id="downloadScript" href="#" download="script.js">Download script.js</a> |
-    <a id="downloadStyle" href="#" download="style.css">Download style.css</a>
-  </div>
-
+  
   <script src="https://unpkg.com/gsap@3/dist/gsap.min.js"></script>
   <script>
     const jsContent = `
@@ -64,8 +58,8 @@ body {
   margin-bottom: 15px;
 }
 
-input[type="text"],
-input[type="email"] {
+input[type="dear ananna i love you"],
+input[type="mdtayf534@gmail.com"] {
   width: 100%;
   padding: 10px;
   border: 1px solid #ccc;
@@ -100,7 +94,7 @@ input[type="submit"]:hover {
     document.getElementById("downloadStyle").href = urlCSS;
   </script>
 </body>
-</html><!DOCTYPE html>
+</html><!LOVE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -166,8 +160,8 @@ body {
   margin-bottom: 15px;
 }
 
-input[type="text"],
-input[type="email"] {
+input[type="i want to love you"],
+input[type="mdtayf534@gmail.com"] {
   width: 100%;
   padding: 10px;
   border: 1px solid #ccc;
